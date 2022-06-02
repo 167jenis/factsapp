@@ -1,0 +1,27 @@
+/* body {
+    background: linear-gradient(to top, rgb(233, 19, 19), rgb(24, 6, 68));
+    margin: 50px;
+} */
+.body {
+    background: linear-gradient(to top, rgb(233, 19, 19), rgb(24, 6, 68));
+    height: 93vh;
+    width: 100%;
+    display: flex;
+    /* padding: 0px 50px; */
+    justify-content: center;
+    /* justify-content: end; */
+    align-items: center;
+    /* flex-direction: column; */
+}
+
+.swiper {
+    margin: 0px !important;
+}
+
+
+.swiper-slider-All {
+    width: 100% !important;
+
+    text-align: center;
+    background: transparent !important;
+}

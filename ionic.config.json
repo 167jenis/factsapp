@@ -1,0 +1,7 @@
+{
+  "name": "psychology",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
